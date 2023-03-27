@@ -88,3 +88,15 @@ addTwoNums(x, y) // 26
 
 // 2. Create a function that takes in two numbers and prints which number is larger.
 
+// 3. Write a function that converts weeks into hours. Return the result. Invoke the function.
+
+function convertWeeksToHours(weeks) {
+  const days = weeks * 7;
+  const hours = days * 24;
+  return hours;
+}
+
+console.log(convertWeeksToHours(5)); // 840
+
+const totalHours = convertWeeksToHours(5); // 840
+console.log(totalHours);

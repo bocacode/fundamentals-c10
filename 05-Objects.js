@@ -13,6 +13,15 @@ const person = {
   awesome: true,
 }
 
+// const firstName = person.firstName
+// const lastName = person.lastName
+// const age = person.age
+// const ethnicity = person.ethnicity
+// const awesome = person.awesome
+
+const { firstName, lastName, age, ethnicity, awesome } = person // destructuring
+
+
 // We refer to each key-value pair as a property. For example, the person above has a
 // firstName property that is equal to "Jiho".
 
