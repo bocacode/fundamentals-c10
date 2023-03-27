@@ -90,3 +90,10 @@ rm -rf new-folder
 # ~~~~~~~~~~~~~~~~~~~~~~~~ USE THIS WITH CAUTION! ~~~~~~~~~~~~~~~~~~~~~~~~
 
 # To run this file from Terminal, type "source ./00-Terminal.bash".
+
+
+#### PRACTICE ####
+
+# 1. Create a folder called "practice".
+# 2. Go inside that folder and create a file called "test.js".
+# 3. Go back out of that folder and remove the folder.

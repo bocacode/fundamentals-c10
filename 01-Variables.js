@@ -30,3 +30,16 @@ myTotal = myTotal + 4.99; // now it is 22.98
 // We can also just re-declare it anything we want like:
 myTotal = 128.97;
 
+// ~~~~ PRACTICE ~~~~
+
+// 1. Create a mutable variable named count and set it to 5.
+
+// 2. Now add 1 to count.
+
+// 3. Print count to the console.
+
+// 4. Create an immutable variable called myName and give it a value.
+
+// 5. Create an immutable variable named color and give it a value.
+
+// 6. Print out the name and color in the format "Todd's favorite color is purple."
