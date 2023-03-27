@@ -15,3 +15,7 @@ for(let i = 0; i < 10; i++) {
 
 // conventionally, we use i for our increment (counter)
 
+// ~~~~ PRACTICE ~~~~
+
+// 1. Create a loop that outputs the numbers 0 through 7.
+
