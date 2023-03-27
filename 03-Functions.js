@@ -80,3 +80,11 @@ addTwoNums(11, 15) // 26
 const x = 11
 const y = 15
 addTwoNums(x, y) // 26
+
+
+// ~~~~ PRACTICE ~~~~
+
+// 1. Create a function that takes in a number as a parameter and prints the square of that number.
+
+// 2. Create a function that takes in two numbers and prints which number is larger.
+
