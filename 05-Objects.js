@@ -41,3 +41,17 @@ person.hair = "black"
 person.lastName = "SOHN"
 
 console.log(person)
+
+// ~~~~ PRACTICE ~~~~
+
+// 1. Create an object called car. Add the following keys: make, model, year, miles,
+//    and color and set each.
+
+// 2. Create an object called movie and add the title, year, and genre of your favorite
+//    movie.
+
+// 3. Using the movie above, print out the title and year of the movie with the year
+//    in parenthesis, like "Star Wars (1977)".
+
+// 4. Add a new property to the movie object called rating and give it a numeric rating.
+
